@@ -5,8 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Radu's Portfolio
-          change one.
+          Radu's Portfolio - change two.
         </p>
       </header>
     </div>
